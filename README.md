@@ -1,6 +1,6 @@
 #**Manual Do Usuário**
-Ao entrar no repositório no site do github, clicaremos em clonar or download e depois clicaremos em download .zip e assim baixaremos o arquivo .zip
-Logo após vamos extrai-lo em qualquer pasta que você desejar, com isso abra o IDLE e clique em File e logo em seguida clique em Open e localize o arquivo que você extraiu:
+
+Ao entrar no repositório no site do github, clicaremos em clonar or download e depois clicaremos em download .zip e assim baixaremos o arquivo .zip, logo após vamos extrai-lo em qualquer pasta que você desejar, com isso abra o IDLE e clique em File e logo em seguida clique em Open e localize o arquivo que você extraiu:
 -**Clicando na Questão 01**
 O usuário verá que aparecerá todo o código e então deve clicar no botão (F5) para executar o programa, esse programa consiste em saber o espaço usado, a porcentagem do uso e o nome do usuário por isso foi criado um arquivo chamado **usuarios.txt** e escrito conforme a questão mostra o exemplo, então automaticamente após clicar no (F5) programa exibirá os nomes , junto ao espaço em uso transformados em Megabytes e em porcentagem , criando assim um outro arquivo chamado **relatorio.txt** como pede na questão e se você desejar ver como ficou basta localizar esse arquivo(relatorio.txt) e abri-lo que vai está completo e lembrando que o arquivo só será lido uma única vez.
 -**Clicando na Questão 02**
@@ -11,5 +11,6 @@ meuFusca = Carro(15) **#indica que o carro anda 15 quilômetros por litro de com
 meuFusca.adicionarGasolina(20) **#indica que o carro abasteceu 20 litros de combustível**
 meuFusca.andar(100)      **#indica quanto o carro irá andar e se a gasolina é suficiente, que nesse caso foi 100 quilômetros**
 meuFusca.obterGasolina()  **#aparecerá na tela o quanto resta de gasolina**
+
 #**Aluno: Francisco Johnes Queiroz Sousa**
 #**Matrícula: 428374**
